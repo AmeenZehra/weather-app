@@ -1,5 +1,6 @@
 # TempTrac
 
+![TempTrac Logo](logoo.webp) <!-- Replace with the path to your app's logo -->
 
 TempTrac is a simple and intuitive weather application that allows users to check the current weather conditions and forecast for any location. Built with HTML, CSS, and JavaScript, this app provides real-time weather data to help you plan your day better.
 
@@ -23,6 +24,9 @@ TempTrac is a simple and intuitive weather application that allows users to chec
 2. The app will display the current temperature, weather conditions, and the 7-day forecast for the specified location.
 3. You can refresh the data by searching for a new city.
 
+## Visit
+
+To explore the app, visit: [TempTrac](https://ameenzehra.github.io/weather-app/)
 
 ## API Key
 
@@ -30,7 +34,3 @@ To access weather data, you'll need to sign up for an API key from [OpenWeatherM
 
 ```javascript
 const apiKey = 'YOUR_API_KEY'; // Replace with your API key
-
-To visit: https://ameenzehra.github.io/weather-app/
-
- 
